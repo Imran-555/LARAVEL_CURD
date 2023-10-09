@@ -17,4 +17,8 @@ ADD PRODUCT  Page url(/addproduct)
 SHOW PRODUCT
 ![image](https://github.com/Imran-555/LARAVE_CURD/assets/74055781/c6ba2762-0ba2-47a7-a15c-dd3de079c3da)
 
+EDIT PRODUCT Page url(//editproduct/33/edit)
+
+DELETE PRODUCT 
+
 
